@@ -12,3 +12,8 @@ This repository gathers the two problems of the first homework of the Algorithmi
 
 I chose to save these two problems in a Jupyter Notebook, because it enabled me to add explanations and titles before every code, therefore improving my presentation and making it easier to read and correct.
 The stamp file contains screens of all my Hackerrank submissions.
+
+I would also comment that a lot of these problems were not clear and had ambiguous explanations. I often had to consult forums and look for direct answers do these problems online in order to understand what I was asked. Moreover a lot of submissions were given wrong for no other reason that a wrong format or a space lacking at the end of a word, which was probably the most annoying part. I sometimes spent more time understanding the output format than writing my code.
+
+Other than that this was a good reminder of python basics, and I discovered a few new features I didn't know existed.
+
